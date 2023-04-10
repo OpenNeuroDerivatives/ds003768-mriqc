@@ -1,0 +1,15 @@
+Warning: Permanently added 'c174-102' (ECDSA) to the list of known hosts.
+WARNING (03/02/23 08:00:36): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.5276459.hostlist.HdG2DHl9 to get hosts
+starting job on c174-102
+starting job on c176-004
+starting job on c177-011
+starting job on c178-092
+starting job on c180-102
+starting job on c180-213
+starting job on c181-012
+slurmstepd: error: *** JOB 5276459 ON c174-102 CANCELLED AT 2023-03-02T09:18:23 ***
+Killed by signal 15.
+Killed by signal 15.
+Killed by signal 15.
+Terminated
